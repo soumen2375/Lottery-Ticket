@@ -1,0 +1,7 @@
+.ticket {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin: 24px 0;
+}
+        
